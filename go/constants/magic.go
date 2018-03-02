@@ -1,0 +1,5 @@
+package constants
+
+var (
+	MagicNumber = []byte{0xF3, 0x89, 0x9A, 0xC2}
+)
